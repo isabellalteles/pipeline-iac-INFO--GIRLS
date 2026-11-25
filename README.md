@@ -10,6 +10,8 @@ Laura Sampaio - Responsável pelo pipeline
 
 <img width="504" height="674" alt="image" src="https://github.com/user-attachments/assets/8e1188fa-7bbe-4a8f-ba41-1133fcb641ea" />
 <img width="504" height="674" alt="image" src="https://github.com/user-attachments/assets/8372f534-cc8e-4a11-b097-a6c1d7e51576" />
+<img width="599" height="695" alt="image" src="https://github.com/user-attachments/assets/00ec635e-7533-43c2-84ad-e9ecd2b83b21" />
+
 
 ## Perguntas
 pergunta 1 - R: Se alguém mudar a fórmula do programa e ela ficar errada, o teste deve dar erro. Assim, conseguimos perceber que alguma coisa não está funcionando como deveria.
